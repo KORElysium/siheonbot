@@ -1,0 +1,35 @@
+{
+  "name": "siheonbot",
+  "version": "1.0.0",
+  "description": "DSbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KimSilly",
+  "license": "ISC",
+  "dependencies": {
+    "beautify": "0.0.8",
+    "canvacord": "^4.0.1",
+    "common-tags": "^1.8.0",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.10.0",
+    "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
+    "google": "^2.1.0",
+    "jimp": "^0.16.1",
+    "mathjs": "^7.6.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.6",
+    "profanities": "^2.14.0",
+    "quick.db": "^7.1.3",
+    "random-puppy": "^1.1.0",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.3.0"
+  },
+  "devDependencies": {}
+}
